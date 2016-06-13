@@ -130,9 +130,11 @@ hr {
 
 .project {
 	background-color:silver;
+	padding-bottom:20px;
 }
 
 .skills {
+	margin-top:-20px;
 	background-color: #EC576B;
 }
 
