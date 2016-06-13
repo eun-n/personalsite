@@ -78,13 +78,8 @@ body {
 	margin: 50px;
 }
 
-.img-thumbnail {
-	height: 120px;
-	margin-bottom: 5px;
-}
-.img-thumbnail:hover {
-	background-color: hotpink;
-	opacity: 1;
+img{
+	margin-bottom: 10px;
 }
 
 .btn {
@@ -105,7 +100,8 @@ body {
 }
 
 .about {
-	padding-top: 10px;
+	padding-top: 50px;
+	height: 300px;
 }
 
 .well {
@@ -152,7 +148,7 @@ hr {
 	border-radius: 20px;
 }
 
-#p2p {
+#i1 {
 	width:300px;
 	border-radius: 20px;
 }
