@@ -12,14 +12,14 @@
 }
 
 a {
-	color:teal;
+	color:#1A2930;
 	font-size: 18px;
 	align-content: right;
 	font-weight: bold;
 	font-family:'Nanum Gothic',monospace;
 }
 a:hover {
-   color: hotpink;
+   color: teal;
 }
 
 #logo {
@@ -34,7 +34,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-	 background-color: #0A1612;		
+	 background-color: #4EC5C1;		
 	 color:white;
 	 font-weight: bold;
 	 font-family:'Nanum Gothic',monospace;
@@ -42,7 +42,7 @@ body {
 }
 
 .words {
-	background-color: hotpink;
+	background-color: teal;
 	opacity:.92;
 	color: white;
 	padding-top: 1px;
@@ -72,21 +72,6 @@ body {
 	.nav {
 		height: 138px;
 	}
-}
-
-#firsta {
-	max-height: 300px;
-}
-
-#seconda {
-	max-height: 300px;
-}
-
-.row {
-	margin-top: 10px;
-	background-color: hotpink;
-	padding: 15px;
-	color: white;
 }
 
 .btn-group {
@@ -132,4 +117,9 @@ position:fixed;
 
 .about {
 	padding-top: 10px;
+}
+
+.well {
+	background-color: #4EC5C1;
+	/*background-color: teal;*/
 }
