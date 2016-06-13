@@ -136,6 +136,8 @@ hr {
 .skills {
 	margin-top:-20px;
 	background-color: #EC576B;
+	padding-bottom:20px;
+	margin-bottom:-20px;
 }
 
 #profile {
