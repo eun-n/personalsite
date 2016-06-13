@@ -38,6 +38,7 @@ body {
 	 color:white;
 	 font-weight: bold;
 	 font-family:'Nanum Gothic',monospace;
+	 text-align: center;
 
 }
 
@@ -122,4 +123,7 @@ position:fixed;
 .well {
 	background-color: #4EC5C1;
 	/*background-color: teal;*/
+}
+.description {
+	color:black;
 }
