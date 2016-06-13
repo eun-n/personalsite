@@ -16,6 +16,7 @@ a {
 	font-size: 18px;
 	align-content: right;
 	font-weight: bold;
+	font-family:'Nanum Gothic',monospace;
 }
 a:hover {
    color: hotpink;
@@ -36,6 +37,8 @@ body {
 	 background-color: #0A1612;		
 	 color:white;
 	 font-weight: bold;
+	 font-family:'Nanum Gothic',monospace;
+
 }
 
 .words {
