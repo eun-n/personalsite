@@ -33,7 +33,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-	 background-color: aquamarine;		
+	 background-color: #0A1612;		
 	 color:teal;
 	 font-weight: bold;
 }
@@ -123,8 +123,10 @@ position:fixed;
 	text-align: left;
 }
 
-a.anchor {
-    display: block;
-    position: relative;
-    top: 250px;
+.portfolio {
+	color: white;
+}
+
+.about {
+	padding-top: 10px;
 }
