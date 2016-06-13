@@ -143,6 +143,12 @@ hr {
 	margin-top: 50px;
 }
 
-#vrscreen {
-	max-width: 300px;
+.screen {
+	width: 300px;
+	border-radius: 20px;
+}
+
+#p2p {
+	width:300px;
+	border-radius: 20px;
 }
