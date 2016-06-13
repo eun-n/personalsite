@@ -39,6 +39,7 @@ body {
 	 font-weight: bold;
 	 font-family:'Nanum Gothic',monospace;
 	 text-align: center;
+	 display: inline-block;
 
 }
 
@@ -73,17 +74,6 @@ body {
 	.nav {
 		height: 138px;
 	}
-}
-
-.btn-group {
-	margin-top: 15px;
-	margin-bottom: 15px;
-}
-
-footer {
-position:fixed;
- bottom:10px;
- right:10px;
 }
 
 .vid {
@@ -126,4 +116,24 @@ position:fixed;
 }
 .description {
 	color:black;
+}
+
+.stitle {
+	color:black;
+}
+
+.slist {
+	color:black;
+}
+
+hr {
+	width: 60%;
+}
+
+.project {
+	background-color:silver;
+}
+
+.skills {
+	background-color: #EC576B;
 }
