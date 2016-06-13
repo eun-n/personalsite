@@ -142,3 +142,7 @@ hr {
 	margin-bottom: 10px;
 	margin-top: 50px;
 }
+
+#vrscreen {
+	max-width: 300px;
+}
